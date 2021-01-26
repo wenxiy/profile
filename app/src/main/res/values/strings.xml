@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CCNUBOX-feature-profile</string>
+    <string name="register_telnum">请输入手机号</string>
+    <string name="register_Vercode">请输入验证码</string>
+    <string name="register_forget">忘记密码？</string>
+    <string name="register_go">GO</string>
+    <string name="regiter_banner">登录华师匣子</string>
+</resources>
