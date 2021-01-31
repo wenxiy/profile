@@ -17,6 +17,7 @@ class LoginActivity : AppCompatActivity() {
             this,
             R.layout.activity_login
         )
+        //databing
         binding.lifecycleOwner = this
     }
 }
